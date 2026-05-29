@@ -157,7 +157,7 @@ body{top:0!important}
   width:180px;height:60px;
   object-fit:contain;display:block;
   margin:0 1.25rem 1.75rem;
-  border-radius:3px;
+  border-radius:5px;
 }
 .mobile-menu ul{
   list-style:none;width:100%;padding:0;margin:0;
