@@ -154,7 +154,7 @@ body{top:0!important}
 }
 .mobile-menu-close:hover{color:var(--terra)}
 .mob-logo{
-  width:180px;height:60px;
+  width:200px;height:80px;
   object-fit:contain;display:block;
   margin:0 1.25rem 1.75rem;
   border-radius:5px;
